@@ -1,3 +1,6 @@
+body{
+    background-color: rgba(0, 0, 0, 0.088);
+}
 #holdbtn{
     position: relative;
     border:2px solid ;
